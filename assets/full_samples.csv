@@ -1,0 +1,12 @@
+R1,R2,sample,platform
+fastq/0A2_S1/0A2_S1_R1_001.fastq.gz,fastq/0A2_S1/0A2_S1_R2_001.fastq.gz,0A2_S1,illumina
+fastq/0P2_S2/0P2_S2_R1_001.fastq.gz,fastq/0P2_S2/0P2_S2_R2_001.fastq.gz,0P2_S2,illumina
+fastq/0P3_S3/0P3_S3_R1_001.fastq.gz,fastq/0P3_S3/0P3_S3_R2_001.fastq.gz,0P3_S3,illumina
+fastq/0P4_S4/0P4_S4_R1_001.fastq.gz,fastq/0P4_S4/0P4_S4_R2_001.fastq.gz,0P4_S4,illumina
+fastq/3P1_S5/3P1_S5_R1_001.fastq.gz,fastq/3P1_S5/3P1_S5_R2_001.fastq.gz,3P1_S5,illumina
+fastq/3P2_S6/3P2_S6_R1_001.fastq.gz,fastq/3P2_S6/3P2_S6_R2_001.fastq.gz,3P2_S6,illumina
+fastq/3P3_S7/3P3_S7_R1_001.fastq.gz,fastq/3P3_S7/3P3_S7_R2_001.fastq.gz,3P3_S7,illumina
+fastq/6P3_S8/6P3_S8_R1_001.fastq.gz,fastq/6P3_S8/6P3_S8_R2_001.fastq.gz,6P3_S8,illumina
+fastq/6P6_S9/6P6_S9_R1_001.fastq.gz,fastq/6P6_S9/6P6_S9_R2_001.fastq.gz,6P6_S9,illumina
+fastq/pacbio.fastq.gz,,,pacbio
+fastq/nanopore_merge.fastq.gz,,,nanopore

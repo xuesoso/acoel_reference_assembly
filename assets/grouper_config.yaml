@@ -1,0 +1,24 @@
+conditions:
+    - 0A
+    - 0P
+    - 3P
+    - 6P
+samples:
+    0A:
+        - 0A2_S1
+    0P:
+        - 0P2_S2
+        - 0P3_S3
+        - 0P4_S4
+    3P:
+        - 3P1_S5
+        - 3P2_S6
+        - 3P3_S7
+    6P:
+        - 6P3_S8
+        - 6P6_S9
+
+outdir: ./
+orphan: False
+mincut: False
+threads: 16

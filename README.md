@@ -52,7 +52,7 @@ bash run_test.sh
 
 To run the assembly and annotation workflow on other dataset, you need to generate a samplesheet for the fastq files (refer to `assets/test_samples.csv` as an example) and a yaml file that specifies fastq paths and conditions for Salmon grouper (i.e. `assets/grouper_config.yaml`). Please note that you may need to replace the paths for the input and output directories. Specify in `nextflow.config` the input directory for the dataset by modifying the `params.input_dir` variable.
 
-#### Examples for input samplesheet
+#### Input samplesheet
 The `assets/samples.csv` file specifies the paths for the input fastq files of Illumina, Nanopore, and Pacbio sequencing:
 
 ```csv
@@ -63,7 +63,7 @@ pacbio/RNA_seq.fastq.gz,,,pacbio
 nanopore/RNA_seq.fastq.gz,,,nanopore
 ```
 
-The `assets/grouper_config.yaml` file specifies the paths to input paths of Illumina fastq files for Salmon grouper, as well as the condition factors (if there were different treatments for the samples). 
+The `assets/grouper_config.yaml` file specifies the input paths of Illumina fastq for Salmon grouper, as well as the condition factors if there were different treatments for the samples. 
 
 ## Dataset
 -----

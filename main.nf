@@ -45,7 +45,10 @@ workflow {
     fastq_ch = Channel
                 .fromPath(params.input)
                 .splitCsv(header: true, sep: ',')
-                .map { row -> tuple(row.R1, row.R2, row.sample, row.platform) }
+                .map { row -> tuple(params.input_dir + '/' + row.R1,
+                                    params.input_dir + '/' + row.R2,
+                                    row.sample,
+                                    row.platform) }
 
     illumina_ch = fastq_ch
                     .filter { it[3] == 'illumina' }

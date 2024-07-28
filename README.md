@@ -73,9 +73,11 @@ Full dataset including the polished transcriptome reference, TransDecoder predic
 ## Citation
 -----
 
-A manuscript associated with this workflow is currently under review. If you find this repository useful, please consider citing our [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.06.21.545945v1):
+An article associated with this workflow has been published on Nature Communications. If you find this repository useful, please consider citing our [article](https://www.nature.com/articles/s41467-024-48366-2):
 
-**Coordinated wound responses in a regenerative animal-algal photosymbiotic metaorganism (2023).** Dania Nanes Sarfati, Yuan Xue, Eun Sun Song, Ashley Byrne, Daniel Le, Spyros Darmanis, Stephen R. Quake, Adrien Burlacot, James Sikes, Bo Wang. bioRxiv 2023.06.21.545945; doi: https://doi.org/10.1101/2023.06.21.545945
+**Coordinated wound responses in a regenerative animal-algal holobiont (2024).** Dania Nanes Sarfati, Yuan Xue, Eun Sun Song, Ashley Byrne, Daniel Le, Spyros Darmanis, Stephen R. Quake, Adrien Burlacot, $James Sikes‡, $Bo Wang‡. *Nature Communications* 15, 4032 (2024). https://doi.org/10.1038/s41467-024-48366-2
+
+‡corresponding authors
 
 ## License
 -----

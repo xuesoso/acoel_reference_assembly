@@ -75,7 +75,7 @@ Full dataset including the polished transcriptome reference, TransDecoder predic
 
 An article associated with this workflow has been published on Nature Communications. If you find this repository useful, please consider citing our [article](https://www.nature.com/articles/s41467-024-48366-2):
 
-**Coordinated wound responses in a regenerative animal-algal holobiont (2024).** Dania Nanes Sarfati, Yuan Xue, Eun Sun Song, Ashley Byrne, Daniel Le, Spyros Darmanis, Stephen R. Quake, Adrien Burlacot, $James Sikes‡, $Bo Wang‡. *Nature Communications* 15, 4032 (2024). https://doi.org/10.1038/s41467-024-48366-2
+**Coordinated wound responses in a regenerative animal-algal holobiont (2024).** Dania Nanes Sarfati, Yuan Xue, Eun Sun Song, Ashley Byrne, Daniel Le, Spyros Darmanis, Stephen R. Quake, Adrien Burlacot, James Sikes‡, Bo Wang‡. *Nature Communications* 15, 4032 (2024). https://doi.org/10.1038/s41467-024-48366-2
 
 ‡corresponding authors
 
